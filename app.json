@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Complete_Fitness",
-    "slug": "Complete_Fitness",
+    "name": "CompleteFitness",
+    "slug": "CompleteFitness",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
